@@ -1,0 +1,18 @@
+.home-heading {
+    color: rgb(28, 176, 239);
+    font-size: 2rem;
+    padding: 2rem;
+  }
+  
+  .home-caption-text {
+    color: rgb(1, 17, 79); 
+  }
+  .home-caption-text-bottom {
+    color: rgb(28, 176, 239);
+  }
+  .badge-danger{
+    background-color: rgba(48, 204, 178, 0.868);
+  }
+  .badge-info{
+    background-color: rgb(37, 178, 243);
+  }
